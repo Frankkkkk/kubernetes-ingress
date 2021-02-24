@@ -403,7 +403,7 @@ Possible values:
 Example:
 
 ```yaml
-server-slots: 75
+scale-server-slots: 75
 ```
 
 <p align='right'><a href='#available-annotations'>:arrow_up_small: back to top</a></p>
